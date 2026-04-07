@@ -12,3 +12,4 @@
 - Este es mi primer contacto con github
 - Tengo un gato que se llama Chicho, adjunto pruebas a continuación: 
 
+![foto chicho](100_0021.JPG)
