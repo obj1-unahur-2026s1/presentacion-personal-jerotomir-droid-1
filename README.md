@@ -13,3 +13,10 @@
 - Tengo un gato que se llama Chicho, adjunto pruebas a continuación: 
 
 ![foto chicho](100_0021.JPG)
+
+# Chicho
+Trabajo para mi gato.
+Estudio para darle mejor vida a mi gato.
+Vivo por mi gato.
+
+Espero sepan entender que, aunque sea mi presentación, es mas importante el gato.
